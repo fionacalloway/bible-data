@@ -1,0 +1,198 @@
+[
+ {
+  "code": "KJ21",
+  "name": "21st Century King James Version (KJ21)"
+ },
+ {
+  "code": "ASV",
+  "name": "American Standard Version (ASV)"
+ },
+ {
+  "code": "AMP",
+  "name": "Amplified Bible (AMP)"
+ },
+ {
+  "code": "AMPC",
+  "name": "Amplified Bible, Classic Edition (AMPC)"
+ },
+ {
+  "code": "ASND",
+  "name": "Ang Salita ng Dios (Tagalog Contemporary Bible) (ASND)"
+ },
+ {
+  "code": "AKJV",
+  "name": "Authorized (King James) Version (AKJV)"
+ },
+ {
+  "code": "CCB",
+  "name": "Chinese Contemporary Bible (Simplified) (CCB)"
+ },
+ {
+  "code": "CCBT",
+  "name": "Chinese Contemporary Bible (Traditional) (CCBT)"
+ },
+ {
+  "code": "CSB",
+  "name": "Christian Standard Bible (CSB)"
+ },
+ {
+  "code": "CSBA",
+  "name": "Christian Standard Bible Anglicised (CSBA)"
+ },
+ {
+  "code": "CEB",
+  "name": "Common English Bible (CEB)"
+ },
+ {
+  "code": "CEV",
+  "name": "Contemporary English Version (CEV)"
+ },
+ {
+  "code": "DARBY",
+  "name": "DARBY"
+ },
+ {
+  "code": "DRA",
+  "name": "Douay-Rheims 1899 American Edition (DRA)"
+ },
+ {
+  "code": "EASY",
+  "name": "EasyEnglish Bible (EASY)"
+ },
+ {
+  "code": "ESV",
+  "name": "English Standard Version (ESV)"
+ },
+ {
+  "code": "ESVUK",
+  "name": "English Standard Version Anglicised (ESVUK)"
+ },
+ {
+  "code": "GW",
+  "name": "GOD\u2019S WORD Translation (GW)"
+ },
+ {
+  "code": "HCSB",
+  "name": "Holman Christian Standard Bible (HCSB)"
+ },
+ {
+  "code": "ICB",
+  "name": "International Children\u2019s Bible (ICB)"
+ },
+ {
+  "code": "ISV",
+  "name": "International Standard Version (ISV)"
+ },
+ {
+  "code": "KJV",
+  "name": "King James Version (KJV)"
+ },
+ {
+  "code": "LSB",
+  "name": "Legacy Standard Bible (LSB)"
+ },
+ {
+  "code": "LEB",
+  "name": "Lexham English Bible (LEB)"
+ },
+ {
+  "code": "MEV",
+  "name": "Modern English Version (MEV)"
+ },
+ {
+  "code": "NABRE",
+  "name": "New American Bible (Revised Edition) (NABRE)"
+ },
+ {
+  "code": "NASB",
+  "name": "New American Standard Bible (NASB)"
+ },
+ {
+  "code": "NASB1995",
+  "name": "New American Standard Bible 1995 (NASB1995)"
+ },
+ {
+  "code": "NET",
+  "name": "New English Translation (NET Bible)"
+ },
+ {
+  "code": "NIRV",
+  "name": "New International Reader's Version (NIRV)"
+ },
+ {
+  "code": "NIV",
+  "name": "New International Version (NIV)"
+ },
+ {
+  "code": "NIVUK",
+  "name": "New International Version - UK (NIVUK)"
+ },
+ {
+  "code": "NKJV",
+  "name": "New King James Version (NKJV)"
+ },
+ {
+  "code": "NLT",
+  "name": "New Living Translation (NLT)"
+ },
+ {
+  "code": "NRSVCE",
+  "name": "New Revised Standard Version Catholic Edition (NRSVCE)"
+ },
+ {
+  "code": "NRSVUE",
+  "name": "New Revised Standard Version Updated Edition (NRSVUE)"
+ },
+ {
+  "code": "NRSVA",
+  "name": "New Revised Standard Version, Anglicised (NRSVA)"
+ },
+ {
+  "code": "NRSVACE",
+  "name": "New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)"
+ },
+ {
+  "code": "PHILLIPS",
+  "name": "PHILLIPS"
+ },
+ {
+  "code": "RSV",
+  "name": "Revised Standard Version (RSV)"
+ },
+ {
+  "code": "RSVCE",
+  "name": "Revised Standard Version Catholic Edition (RSVCE)"
+ },
+ {
+  "code": "TNCV",
+  "name": "Thai New Contemporary Bible (TNCV)"
+ },
+ {
+  "code": "MSG",
+  "name": "The Message (MSG)"
+ },
+ {
+  "code": "VOICE",
+  "name": "VOICE"
+ },
+ {
+  "code": "WEB",
+  "name": "World English Bible (WEB)"
+ },
+ {
+  "code": "WE",
+  "name": "Worldwide English (New Testament) (WE)"
+ },
+ {
+  "code": "WYC",
+  "name": "Wycliffe Bible (WYC)"
+ },
+ {
+  "code": "YLT",
+  "name": "Young's Literal Translation (YLT)"
+ },
+ {
+  "code": "NUB",
+  "name": "nuBibeln (Swedish Contemporary Bible) (NUB)"
+ }
+]
